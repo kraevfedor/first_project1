@@ -1,0 +1,9 @@
+.header {
+    color: red;
+    display: grid;
+    place-items: center;
+}
+.img {
+    display: grid;
+    place-items: center;
+}
